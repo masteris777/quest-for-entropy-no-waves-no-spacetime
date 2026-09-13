@@ -1,5 +1,7 @@
 # No Waves, No Spacetime - Quest for Entropy #15
 
+**Article:** [Quest for Entropy #15 — "No Waves, No Spacetime"](https://questforentropy.substack.com/p/no-waves-no-spacetime)
+
 The article **"No Waves, No Spacetime"** (Quest for Entropy #15), archived as published,
 with its assets. Spacetime as something that happens to waves - and only to waves - in a
 computational universe with a fixed compute budget: gravity as a crowd, time as a budget,
