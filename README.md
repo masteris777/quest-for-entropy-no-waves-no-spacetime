@@ -1,6 +1,6 @@
 # No Waves, No Spacetime - Quest for Entropy #15
 
-**Article:** [Quest for Entropy #15 — "No Waves, No Spacetime"](https://questforentropy.substack.com/p/no-waves-no-spacetime)
+**Article:** [Quest for Entropy #15 — "No Waves, No Spacetime"](https://questforentropy.com/p/no-waves-no-spacetime) · also on [Substack](https://questforentropy.substack.com/p/no-waves-no-spacetime)
 
 **Series:** ← [#14 The Poor Cat Experiments](https://github.com/masteris777/quest-for-entropy-the-poor-cat-experiments) · [#16 Spooky Action on the Ledger](https://github.com/masteris777/quest-for-entropy-spooky-action-on-the-ledger) →
 
